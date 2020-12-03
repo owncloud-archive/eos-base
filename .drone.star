@@ -1,6 +1,6 @@
 config = {
-  'eos_version': '4.6.5',
-  'xrd_version': '4.11.0',
+  'eos_version': '4.8.26',
+  'xrd_version': '4.12.5',
 }
 
 def main(ctx):
